@@ -1,0 +1,31 @@
+# PageIndex Configuration - Hugging Face Edition
+
+# Model settings
+model:
+  # Recommended free models for JSON structure generation:
+  # - "mistralai/Mistral-7B-Instruct-v0.2" (good balance)
+  # - "meta-llama/Llama-2-7b-chat-hf" (requires HF token)
+  # - "google/flan-t5-large" (smaller, faster)
+  # - "HuggingFaceH4/zephyr-7b-beta" (good for structured output)
+  name: "mistralai/Mistral-7B-Instruct-v0.2"
+  max_tokens: 2048
+  temperature: 0.1
+  device: "auto"  # "cuda" or "cpu" or "auto"
+
+# Document processing settings
+document:
+  toc_check_pages: 20
+  max_pages_per_node: 10
+  max_tokens_per_node: 20000
+
+# Tree structure settings
+tree:
+  if_add_node_id: true
+  if_add_node_summary: true
+  if_add_doc_description: true
+  if_add_node_text: false
+
+# Output settings
+output:
+  format: "json"
+  indent: 2
