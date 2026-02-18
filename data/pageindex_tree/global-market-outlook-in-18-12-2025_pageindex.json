@@ -1,0 +1,83 @@
+{
+  "document_description": "This document is an investment strategy report for the year 2026, titled \"Outlook 2026: Ride the Recovery Wave.\" The report outlines the macroeconomic outlook and key asset class views for 2026, with a focus on positioning for the end of the easing cycle. The document covers three main themes: equities, bonds, and diversifiers. The equities theme emphasizes reflation, revival, and rotation, with a preference for large- and mid-cap equities, consumer discretionary, and financials. The bonds theme suggests preferring bonds over cash due to higher yields, with a focus on short-maturity and high-quality corporate bonds. The diversifiers theme highlights gold and multi-asset strategies as key portfolio diversifiers. The report also mentions risks, including downside surprises to domestic growth and external headwinds.",
+  "total_pages": 22,
+  "nodes": [
+    {
+      "title": "Outlook 2026",
+      "start_index": 3,
+      "end_index": 5,
+      "node_id": "0000",
+      "summary": "In the report from Standard Chartered, it is predicted that Indian equities will experience growth in 2026 due to a reflating economy, earnings revival, and rotation into equities. The economy is expected to have a double-digit nominal GDP growth rate, leading to a corporate revenue outlook improvement. Earnings are projected to rise by 16% CAGR for FY26-28, as the earnings downgrade cycle comes to an end. Foreign investor positioning is near multi-decade lows, but a turnaround in growth and earnings is expected to result in a return of foreign investor inflows. Domestic liquidity remains supportive, with greater allocation to equities in hybrid strategies. For equity allocation, an overweight position in large-cap equities is recommended due to their greater margin of safety in valuations and earnings, and their status as the first beneficiaries of foreign investor inflows and higher equity allocation in hybrid strategies."
+    },
+    {
+      "title": "Foundation asset allocation models",
+      "start_index": 5,
+      "end_index": 6,
+      "node_id": "0001",
+      "summary": "The India-focused Tactical Asset Allocation (TAA) performed similarly to the Strategic Asset Allocation (SAA) in 2025. The text also outlines several key calls made by Standard Chartered Bank's India Investment Committee during this period, including predictions for Indian equities, bonds, and specific sectors to outperform. Some calls, such as Indian Large-cap equities outperforming Mid- and Small-cap equities and Indian Mid- and Long-maturity Bonds outperforming Short-maturity Bonds, were successful. Other calls, like India Technology Sector to outperform Indian Equities and India Industrials Sector to outperform Indian Equities, did not materialize. The TAA also included investments in Indian Mid-Cap Equities, Indian High-Quality (AAA) Corporate Bonds, Indian Small-Cap Equities, Indian Long-Term Bonds, and Indian Medium-Term Bonds."
+    },
+    {
+      "title": "Performance of our calls",
+      "start_index": 6,
+      "end_index": 7,
+      "node_id": "0002",
+      "summary": "India's monetary policy shifted from prioritizing macroeconomic stability to supporting growth in 2025, resulting in a three-pronged easing approach with repo rate cuts, liquidity injection, and deregulation. Looking back at previous easing cycles, equities typically outperform post-easing as lower rates boost growth and earnings. However, bond yields may initially decrease but tend to rise within a year. The current cycle, which includes a year of rate cuts and cumulative easing of 225bps, is expected to follow this trend."
+    },
+    {
+      "title": "Macro overview – at a glance",
+      "start_index": 7,
+      "end_index": 8,
+      "node_id": "0003",
+      "summary": "India's economic growth is expected to remain robust in 2026, with policy stimulus from both monetary and fiscal measures offsetting the negative impact of US trade tariffs and global growth slowdown. The RBI's policy rate cuts, liquidity injections, and dollar-rupee swaps, along with the government's income tax cuts and GST rate rationalization, are expected to trigger a consumption-led recovery. The medium-term outlook remains strong, with CPI inflation expected to trend lower than the RBI's target of 4%. The key risks to the macro-outlook are high trade tariffs and global trade disruption, and a delayed growth recovery. India's GDP growth is expected to grow at 6.5% in FY27, with CPI inflation averaging 4.0%. India's growth-inflation dynamics are stronger than peers', as shown in Fig. 7."
+    },
+    {
+      "title": "Asset classes – at a glance",
+      "start_index": 8,
+      "end_index": 9,
+      "node_id": "0004",
+      "summary": "The text is a summary of Outlook 2026 for Indian bonds by Standard Chartered. The neutral stance on bonds is due to elevated yields, RBI's monetary easing, and domestic inflation, but countered by lower demand and global uncertainties. The expected moderation in yields is due to interest rate differentials between the US and India and easing supply-side pressures. The preference is for short-term bonds and high-quality corporate bonds due to limited rate cut room and waning appetite for duration. The RBI's policy rate cuts and GST rate rationalization are expected to keep bond yields anchored, with a 10-year IGB yield range of 6.25-6.75%. Key risks include fiscal slippage, high fiscal deficit, and a populist government policy focus driving inflation higher. India's real bond yield is higher than most EM peers."
+    },
+    {
+      "title": "Bonds",
+      "start_index": 9,
+      "end_index": 10,
+      "node_id": "0005",
+      "summary": "The Outlook 2026 report suggests a positive stance towards equities in 2026 due to a reflating economy, revival in earnings, and increased investment from foreign and domestic investors. Economic growth is expected to improve with policy support, leading to higher corporate profitability. However, volatile food prices and elevated valuations are noted as risks. Earnings growth expectations are stable, but valuations remain above historical averages, particularly for mid-cap equities. Foreign investors have been net sellers, while domestic institutional investors have been net buyers in 2025."
+    },
+    {
+      "title": "Equity",
+      "start_index": 10,
+      "end_index": 11,
+      "node_id": "0006",
+      "summary": "Outlook 2026 predicts a continued preference for Overweight global equities, specifically US and Asia ex-Japan (AxJ) equities. The US economy's robust fundamental backdrop, including strong earnings growth, receding geopolitical risks, and accommodative Fed policy, supports this view. AxJ equities are projected to deliver the highest earnings growth among major regions, with India and China being particular standouts. Europe ex-UK and Japan equities are downgraded to Underweight due to economic challenges, while UK equities remain Underweight due to low exposure to growth sectors. The S&P 500, Nasdaq 100, Hang Seng, Nifty 50, and Nikkei 225 are forecasted to outperform, with US and AxJ equities expected to lead the way in earnings growth."
+    },
+    {
+      "title": "Global Equity",
+      "start_index": 11,
+      "end_index": 12,
+      "node_id": "0007",
+      "summary": "The text suggests a preference for investing in domestic cyclical sectors, specifically Consumer Discretionary and Financials, due to anticipated economic growth, normalizing inflation, and supportive monetary and fiscal policies. The Consumer Discretionary sector is expected to outperform with a higher earnings growth rate than the index, driven by factors such as GST rate cuts, a strong agricultural cycle, and easy financial conditions. The Financials sector is also favored due to its strong linkage to domestic growth, improving net interest margins, and deregulation measures that will enhance credit flow."
+    },
+    {
+      "title": "Equity Sector Views",
+      "start_index": 12,
+      "end_index": 13,
+      "node_id": "0008",
+      "summary": "The INR is expected to depreciate to 93/USD over the next year due to US tariffs, portfolio outflows, and weak market sentiment, but RBI intervention may limit the size of the move. The USD Index (DXY) is predicted to peak around 100.5 in the next three months due to the Fed's cautious stance on policy easing and geopolitical uncertainty, but is expected to weaken over a 12-month horizon as the Fed eases policy and US yield differentials narrow against other major economies. Gold is expected to continue its rally, with price targets of $4,350/oz and $4,800/oz over 3 and 12 months, respectively, due to resilient demand and increased involvement of EM central banks."
+    },
+    {
+      "title": "FX and Commodities",
+      "start_index": 13,
+      "end_index": 14,
+      "node_id": "0009",
+      "summary": "This text presents an asset allocation summary for Outlook 2026, comparing views between Conservative, Moderate, and Aggressive investment strategies. Cash and Cash Equivalents make up the smallest percentage (22.9%) of the total allocation, followed by Fixed Income (54.9%) and Equity (22.1%). Within Equity, Developed Market (DM) Equity and Asia Ex-Japan/Other Emerging Market (EM) Equity have the highest allocations. Commodities, specifically Indian Rupee Gold, have a minimal allocation (5.0%). Short-term and Mid/Long-term Bonds, DM Equity (Large-cap, Mid/small-cap), and Indian Equities (Large-cap, Mid/small-cap) have varying allocations depending on the investment strategy. The data is from Bloomberg and Standard Chartered and is for illustrative purposes only."
+    },
+    {
+      "title": "Performance review",
+      "start_index": 14,
+      "end_index": 22,
+      "node_id": "0010",
+      "summary": "The text emphasizes the importance of wisely managing one's time, especially in relation to investment planning. It highlights the need to regularly review and adjust investment strategies based on market performance, using data from various indices for bonds, currencies, commodities, and equities in India and other markets. The text also mentions the importance of considering different sectors and asset classes, such as agriculture, gold, oil, and various equity indices. The author encourages readers to invest their time in reviewing their wealth strategy to ensure it remains optimally positioned for the future."
+    }
+  ]
+}

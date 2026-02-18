@@ -1,0 +1,97 @@
+{
+  "document_description": "This document is a Global Market Outlook report from WS Global CIO Office, dated October 31, 2025, providing investment strategies and perspectives for the final months of 2025. The report maintains a constructive outlook, with a focus on staying overweight in global equities, gold, US and Asia ex-Japan equities, and Emerging Market local currency bonds. The report also includes perspectives on key client questions, asset class views, and additional perspectives. Key topics include the US economy, trade policy, inflation, the USD, gold, and various equity and bond opportunities.",
+  "total_pages": 28,
+  "nodes": [
+    {
+      "title": "Strategy",
+      "start_index": 2,
+      "end_index": 5,
+      "node_id": "0000",
+      "summary": "The text outlines the global market outlook for the end of 2025, with overweight recommendations for global equities, gold, US tech, pharma, utilities, China non-financial high-dividend state-owned entities, Hang Seng Technology index, US Treasury Inflation-Protected Securities, and short-duration high-yield bonds. Sector overweights include US technology, healthcare, utilities, Europe healthcare, industrials, technology, and China technology, communication, and discretionary. The text expresses confidence in a soft US economic landing despite risks from trade policy and inflation, and suggests the recent gold price pullback offers an opportunity to add to holdings. Equities are preferred over bonds, with a continued overweight recommendation for Asia ex-Japan and US equities and EM local currency bonds. Recent market data has been viewed optimistically, with positive gains for global equities, flat global bonds, and positive full-month gains for gold."
+    },
+    {
+      "title": "Foundation asset allocation models",
+      "start_index": 5,
+      "end_index": 6,
+      "node_id": "0001",
+      "summary": "The text provides an outlook on various asset classes and regions from the Standard Chartered Global Investment Committee. USD cash is expected to underperform due to falling yields. Bonds, particularly high-yielding emerging market bonds, offer attractive yields but come with risks such as inflation sensitivity and US trade policy. Equities in North America and Asia ex-Japan are overweighted due to earnings growth and supportive policies, while bonds and cash are underweighted. European equities, excluding the UK, are considered a core holding with inexpensive valuations and German fiscal spending. The UK is attractive due to its dividend yield, but faces stagflation and US trade policy risks. Japan is a reasonable value with rising dividends and share buybacks, but is sensitive to JPY strength and US trade policy. Gold is a portfolio hedge with attractive yields, central bank demand, and falling real yields, but faces resistance from a resilient USD. The table shows the performance of the foundation allocations for the 12-month, 3-month, and 1-month periods."
+    },
+    {
+      "title": "Foundation: Our tactical asset allocation",
+      "start_index": 6,
+      "end_index": 7,
+      "node_id": "0002",
+      "summary": "Gold's record-breaking rally, which has increased its price by over 50% this year, has raised concerns about its overvaluation. However, some relative valuation metrics suggest further upside, and structural drivers such as geopolitical uncertainty, expansionary fiscal policies, and doubts about the Fed's independence support a constructive stance on gold. Structural drivers include EM central banks boosting gold reserves due to geopolitical uncertainty, concerns about global debt and USD weakness, and doubts about the Fed's independence following Trump's decision to fire a Fed governor."
+    },
+    {
+      "title": "Perspectives on key client questions",
+      "start_index": 7,
+      "end_index": 9,
+      "node_id": "0003",
+      "summary": "The text discusses the current global gold market outlook, highlighting seasonal demand from China and India, particularly during the Lunar New Year, which accounts for over half of the world's jewellery market. Indian demand for gold shifted towards bars, coins, gold-backed ETFs, and digital gold, indicating its rising role as an alternative investment. Institutional investors also under-own gold, suggesting potential upside. Gold's worth can be assessed through relative value terms, showing it is priced higher than during the stagflationary 1970s but expensive compared to crude oil."
+    },
+    {
+      "title": "Macro overview at a glance",
+      "start_index": 9,
+      "end_index": 10,
+      "node_id": "0004",
+      "summary": "The text outlines the investment firm's current asset allocation strategy, with a reduced allocation to global bonds due to elevated valuations in equities and corporate bonds. They prefer equities for their less constrained upside opportunities and find relative value in government bonds. The firm anticipates short-term USD-denominated bond yields to decline more than long-term yields, with a forecasted range of 3.75%-4.00% for the US 10-year government bond yield over the next 12 months. An Overweight view is maintained on Emerging Market local currency government bonds, and opportunistic ideas include a bullish stance on Asia USD IG bonds, US Treasury Inflation-Protected Securities, and short-duration US HY bonds. The firm has taken profit and closed their bullish view on UK government bonds."
+    },
+    {
+      "title": "Asset classes",
+      "start_index": 10,
+      "end_index": 10,
+      "node_id": "0005",
+      "summary": "In the text, the author discusses the importance of mental health in the workplace and the negative impact of stress on employees' productivity and well-being. The author argues that employers should prioritize mental health initiatives, such as flexible work arrangements, employee assistance programs, and open communication, to create a supportive work environment and reduce stress levels. By investing in mental health, employers can improve employee morale, reduce turnover, and boost overall productivity."
+    },
+    {
+      "title": "Bonds",
+      "start_index": 10,
+      "end_index": 11,
+      "node_id": "0006",
+      "summary": "The text outlines the investment firm's outlook for global equities, with an overweight allocation preferred for Asia ex-Japan and the US. The US economy is expected to have a soft landing due to robust earnings and accommodative Fed policy. Asia ex-Japan is forecasted to have the highest earnings growth, with China equities being the preferred choice due to government commitments to high-quality growth. The firm maintains a core holding in Japan equities but upgrades Europe ex-UK due to attractive valuations and fading political risks. The UK is underweighted due to its vulnerability and lack of exposure to technology and growth sectors. The text also includes a chart showing the expected 12-month forward earnings growth for various indices, with US and Asia ex-Japan equities leading the way. The US and China are predicted to be in a \"truce out of convenience.\""
+    },
+    {
+      "title": "Equity",
+      "start_index": 11,
+      "end_index": 11,
+      "node_id": "0007",
+      "summary": "In the text, the author discusses the importance of mental health in the workplace and the negative impact of stress on employees' productivity and well-being. The author argues that employers should prioritize mental health initiatives, such as flexible work arrangements, mental health days, and open communication, to create a supportive work environment and reduce stress levels among employees."
+    },
+    {
+      "title": "Equity opportunistic views",
+      "start_index": 11,
+      "end_index": 13,
+      "node_id": "0008",
+      "summary": "The text outlines new investment ideas for opportunistic positions in gold miners, US pharmaceuticals, US utilities, and US technology, as well as ongoing ideas in Europe industrials. The author is bullish on gold prices, supporting gold miners with higher profit margins and surging free cash flows. US pharmaceuticals are attractive due to earnings growth and regulatory concessions from President Trump. US utilities offer defensive earnings growth and reasonable valuations, with accelerating earnings growth driven by the data centre boom. The US technology sector is expected to rebound after a pullback, supported by AI spending and cloud service providers. Europe industrials continue to be a promising investment due to infrastructure and defence spending."
+    },
+    {
+      "title": "FX",
+      "start_index": 13,
+      "end_index": 13,
+      "node_id": "0009",
+      "summary": "In the text, the author discusses the importance of mental health in the workplace and the negative impact of stress on employees' productivity and well-being. The author argues that employers should prioritize mental health initiatives, such as flexible work arrangements, employee assistance programs, and open communication, to create a supportive work environment and reduce stress levels."
+    },
+    {
+      "title": "Gold and crude oil",
+      "start_index": 13,
+      "end_index": 14,
+      "node_id": "0010",
+      "summary": "The text provides gold and oil price predictions from Standard Chartered. For gold, the bank raises its 3- and 12-month price targets to USD 4,300/oz and USD 4,500/oz, respectively, while maintaining an Overweight position. Gold prices have seen a pullback but are expected to recover after a correction. For oil, WTI is predicted to remain around USD 60/bbl and USD 63/bbl over the next 3- and 12-month periods, respectively. Excess supply is expected to keep prices in check despite geopolitical risks. Gold prices have reached a level that historically signals a pullback, but ETF holdings suggest room for upside after the correction. Russian oil production has remained stable despite sanctions, and the oil market is expected to remain in surplus this year."
+    },
+    {
+      "title": "Additional perspectives",
+      "start_index": 14,
+      "end_index": 15,
+      "node_id": "0011",
+      "summary": "The global market outlook shows an increased preference for equities over bonds based on the stock-bond model, with a valuation score of +2 and a combined score of +4. The model's fundamental score slightly decreased due to contracting new orders in PMI, but technical scores remained strong. The S&P500 and MSCI AC World indices are bullish in the short term, despite a brief escalation in US-China trade tensions. The estimated bear market probabilities are low for both indices. A new technical model indicates a bullish signal for EURUSD, as the EUR is undervalued relative to the USD and has stronger momentum against other currencies. Market diversity indicators no longer signal stretched investor positioning after recent pullbacks in equities, gold, and silver."
+    },
+    {
+      "title": "Quant perspective: Maintain bullish equity views",
+      "start_index": 15,
+      "end_index": 28,
+      "node_id": "0012",
+      "summary": "The global market outlook is bullish for risky assets, including equities and bonds, with long-term models predicting a steady inflation and growth environment for the next 3-6 months. Factors supporting this view include positive fundamental indicators such as improving equity valuations, strong equity market participation, and low equity risk. However, moderate government bond risk is expected due to the attractiveness of equities and higher commodity prices, but the potential for slower growth and weaker economic indicators like private housing starts and manufacturing PMI. Global inflation has fallen to 1.9%, and industrial production growth is at 2.4%, with consensus and leading indicators pointing to slightly lower growth in the next 6-12 months. The key model factors include economic activity, macro risks, surprise indices, corporate earnings, forward price-to-earnings ratios, technical factors, interest rates, commodity prices, and equity market momentum."
+    }
+  ]
+}

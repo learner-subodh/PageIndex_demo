@@ -1,0 +1,132 @@
+{
+  "document_description": "This document is the \"Global Market Outlook\" report published by WS Global CIO Office in May 2025. The report provides investment strategies and asset allocation views for various classes, including bonds, equities, FX, gold, and crude oil. The report discusses the impact of unexpectedly high US trade tariffs on the economy and markets, and suggests a balanced approach to equities with opportunities in US, European, and Asian markets. The report also recommends overweighting gold and certain bond types, such as US Treasury Inflation-Protected Securities (TIPS) and US Agency mortgage-backed securities (MBS). The report includes perspectives on key client questions and performance reviews.",
+  "total_pages": 28,
+  "nodes": [
+    {
+      "title": "Strategy",
+      "start_index": 2,
+      "end_index": 3,
+      "node_id": "0000",
+      "summary": "The text discusses the global market outlook, highlighting investment opportunities in gold, DM IG government bonds, US software, communications, major banks, Chinese non-financial high dividend SOEs and Hang Seng Technology Index, European banks, and industrials for equities. Opportunistic bond investments include US Treasury Inflation-Protected Securities (TIPS) and US Agency mortgage-backed securities (MBS). The unexpectedly high US trade tariffs have increased uncertainty and raised risks to the growth outlook, leading to a softening of bond yields and a rise in gold prices. The text suggests a balanced approach to equities across major regions, with opportunities in US, European, and Asian markets. DM IG government bonds are expected to benefit from a slow growth environment and a potential decline in the USD."
+    },
+    {
+      "title": "Foundation asset allocation models",
+      "start_index": 3,
+      "end_index": 5,
+      "node_id": "0001",
+      "summary": "The text suggests that US policy uncertainty, as indicated by a high policy uncertainty index and the potential weakness of the USD, makes it less favorable to take strong directional views in equities. Instead, investors are advised to hold a core position in equities and consider portfolio hedges like gold and high-quality bonds. The text also mentions a preference for China equities in Asia ex-Japan due to inexpensive valuations, optimism, and potential policy support. The overall outlook remains uncertain due to the impact of US tariffs and potential risks to profit margins."
+    },
+    {
+      "title": "Foundation: Our tactical asset allocation views",
+      "start_index": 5,
+      "end_index": 6,
+      "node_id": "0002",
+      "summary": "The text outlines the investment outlook and recommendations from Standard Chartered's Global Investment Committee. The committee suggests a neutral stance on USD cash due to falling yields and potential underperformance against major asset classes. Bonds are recommended for their high credit quality and attractive yields, but come with risks of inflation and monetary policy sensitivity. High-yield emerging market bonds offer attractive yields but are sensitive to US rates, credit quality, and trade policy risks. Equities in North America, Europe ex-UK, and the UK are recommended due to earnings growth, supportive monetary policy, inexpensive valuations, and attractive dividend yields, but face risks of valuations, US trade policy uncertainty, stagflation, and JPY strength. Asia, excluding Japan, is recommended for earnings growth, India growth, and China policy support, but faces concerns over China growth and US trade policy. Gold is recommended as a portfolio hedge due to central bank demand, falling real yields, and resilient USD. The figure shows the performance of the foundation allocations over the past 12, 3, and 1 month periods."
+    },
+    {
+      "title": "Perspectives on key client questions",
+      "start_index": 6,
+      "end_index": 9,
+      "node_id": "0003",
+      "summary": "The US government bond market has experienced volatility following President Trump's tariff announcement, with yields initially falling but quickly spiking above pre-announcement levels. This instability has raised questions about the role of US government bonds as safe havens. The text explores three critical questions regarding the outlook for US government bonds: whether the Fed will intervene to limit yield surges (the 'Fed Put'), if China will retaliate against US tariffs by selling its US government bond holdings, and how the Fed will respond to potential stagflation. Historically, the Fed has only intervened in government bond markets during periods of rapid yield gains that threaten financial stability or market functioning. Examples of direct intervention include policy changes and the introduction of new tools."
+    },
+    {
+      "title": "Macro overview at a glance",
+      "start_index": 9,
+      "end_index": 10,
+      "node_id": "0004",
+      "summary": "The text outlines the global market outlook for bonds, highlighting the continued view of bonds as a core holding due to uncertainty over US trade policy and expected economic soft landing. The author upgrades Developed Market IG government bonds to Overweight, downgrades EM USD government bonds to Underweight, and keeps EM local currency bonds a core holding. DM IG corporate bonds and Asia USD bonds remain neutral. Central bank rate cuts and a weakened USD are expected to support bond performance, while risks include reduced rate cut expectations and rising term premia in long-term bonds."
+    },
+    {
+      "title": "Asset classes",
+      "start_index": 10,
+      "end_index": 10,
+      "node_id": "0005",
+      "summary": "In the text, the author discusses the importance of mental health in the workplace and how employers can support their employees' well-being. They suggest implementing policies such as flexible work hours, mental health days, and open communication about mental health. The author also emphasizes the need for destigmatizing mental health issues and providing resources for employees dealing with mental health challenges."
+    },
+    {
+      "title": "Bonds",
+      "start_index": 10,
+      "end_index": 11,
+      "node_id": "0006",
+      "summary": "The text downgrades the outlook for global equities to neutral due to policy uncertainty and high volatility. US equities are under pressure with earnings revisions and a challenging economic environment. Europe ex-UK equities may benefit from fiscal support but face tariff-related headwinds. Japan equities face challenges from a stronger JPY and foreign capital outflows. China equities are overweight due to low-cost breakthroughs and policy stimulus, while India equities are neutral and relatively insulated from tariffs but face negative earnings revisions. ASEAN equities are underweight due to intensifying competition and weakening earnings momentum. The key recommendation is to diversify across different markets in the face of volatility. The S&P 500 is forecast to reach 5,820, Nasdaq 100 21,500, Euro Stoxx 50 5,430, FTSE 100 8,920, Hang Seng 24,000, Nifty 50 26,000, and Nikkei 225."
+    },
+    {
+      "title": "Equity",
+      "start_index": 11,
+      "end_index": 11,
+      "node_id": "0007",
+      "summary": "In the text, the author discusses the importance of mental health in the workplace and how employers can support their employees' well-being. They suggest implementing policies such as flexible work hours, mental health days, and open communication about mental health. The author also emphasizes the need for destigmatizing mental health issues and providing resources for employees dealing with mental health challenges."
+    },
+    {
+      "title": "Equity opportunistic views",
+      "start_index": 11,
+      "end_index": 13,
+      "node_id": "0008",
+      "summary": "The text outlines seven opportunistic equity buy ideas, including US technology software and communication services, major US banks, Europe banks, and China non-financial high dividend SOEs. Despite recent market downturns due to tariff announcements, the authors believe these investments will recover as economic conditions improve. They suggest preferring companies with strong pricing power or domestic exposure to mitigate the impact of tariffs. Specifically, they highlight software companies' resilience due to focus on services rather than goods, and the potential deregulation benefits for US banks. European banks are also favored due to their domestic revenue focus and attractive dividend yields."
+    },
+    {
+      "title": "FX",
+      "start_index": 13,
+      "end_index": 13,
+      "node_id": "0009",
+      "summary": "In the text, the author discusses the importance of mental health in the workplace and the negative impact of stress on employees' well-being and productivity. The author emphasizes the need for employers to prioritize mental health initiatives, such as flexible work arrangements, employee assistance programs, and open communication, to create a supportive work environment and reduce stress levels."
+    },
+    {
+      "title": "Gold and crude oil",
+      "start_index": 13,
+      "end_index": 14,
+      "node_id": "0010",
+      "summary": "The text suggests maintaining an overweight position in gold with increased price targets, due to its role as a portfolio diversifier and rising demand from investors, particularly in China. Gold prices could correct, providing a better entry level. Silver is also considered, but not a perfect substitute for gold. Crude oil price expectations are lowered to $60/bbl due to continued supply excess and subdued demand, with US trade policy and OPEC+ supply cuts as downside risks. China's increasing gold reserves and potential for further increases are seen as a significant demand factor. The text also includes a chart."
+    },
+    {
+      "title": "Additional perspectives",
+      "start_index": 14,
+      "end_index": 15,
+      "node_id": "0011",
+      "summary": "The stock-bond model suggests a slight overweight to equities over bonds in April due to positive valuation factors and technical indicators, despite weak fundamental signals. The model score increased from -1 to +1. Equities are technically neutral in the short term, with bullish price actions in non-US markets but bearish market regime indicators due to high volatility. Gold is flagged for a stretched positioning, with a rally of over 28% this year, but it may be worth waiting for a better entry point."
+    },
+    {
+      "title": "Quant perspective: Models are neutral to modestly bullish",
+      "start_index": 15,
+      "end_index": 17,
+      "node_id": "0012",
+      "summary": "The global market outlook suggests a slightly overweight position in equities over bonds due to high equity and bond market risks. This view is based on a neutral assessment from both long-term and short-term quantitative models. Factors contributing to this view include a negative fundamental score due to elevated macro risks, contraction in new orders, and negative economic surprise index, as well as a positive valuation score due to cheap price-to-earnings ratios in developed market and Asian equities. Equity risk is considered high due to bearish momentum and higher interest rate benchmarks, while government bond risk is also high due to concerns about stickier inflation and rising commodity prices. Global inflation has fallen to 1.9% y/y and is expected to remain low, while industrial production growth has slowed slightly. Key model factors include economic activity, macro risk and surprise indices, corporate earnings, forward price-to-earnings ratio, and technical factors, as well as market factors such as interest rates, commodity prices, and equity market momentum."
+    },
+    {
+      "title": "Performance review",
+      "start_index": 17,
+      "end_index": 18,
+      "node_id": "0013",
+      "summary": "The text provides an asset allocation summary from Standard Chartered, outlining suggested percentages for various asset classes including USD Cash, Fixed Income (DM IG Government Bonds, DM IG Corporate Bonds, DM HY Corporate Bonds, EM USD Government Bonds, EM Local Ccy Government Bonds, and Asia USD Bonds), Equities (North America, Europe ex-UK, UK, Japan, and Asia ex-Japan), Gold, and Alternatives (Private Equity, Private Real Assets, and Private Debt). The allocation percentages vary between Moderate, Balanced, and Aggressive views, with some classes marked as core holdings and others preferred or least preferred."
+    },
+    {
+      "title": "Market performance summary",
+      "start_index": 18,
+      "end_index": 19,
+      "node_id": "0014",
+      "summary": "This text provides a market performance summary for the year-to-date (YTD) period from December 31, 2024, to April 24, 2025, and a 1-week performance snapshot from April 17-24, 2025. The data is sourced from various financial institutions including MSCI, JPMorgan, Citigroup, Dow Jones, HFRX, FTSE, Bloomberg, and Standard Chartered. The performance is shown in USD terms, unless otherwise stated."
+    },
+    {
+      "title": "Our key forecasts and calendar events",
+      "start_index": 19,
+      "end_index": 21,
+      "node_id": "0015",
+      "summary": "This text is a market outlook from Standard Chartered, providing forecasts for various currency pairs, commodities, and interest rates, as well as key events and policy meetings for central banks such as the Federal Reserve, European Central Bank, and Bank of Japan. The text also emphasizes the importance of wisely managing time for effective wealth planning. Key forecasts include DXY at 99.5 for 3 months and 3.75% for US Treasury 10y yield in 12 months, as well as several central bank policy meetings and economic data releases in May and June 2023."
+    },
+    {
+      "title": "Managing your wealth through the decades: Today, Tomorrow and Forever",
+      "start_index": 21,
+      "end_index": 24,
+      "node_id": "0016",
+      "summary": "The text emphasizes the importance of adhering to five time-tested wealth principles for successful investment decisions. These principles include Discipline to avoid emotional reactions, Diversification to reduce risk, Time in the Market for consistent returns, Risk and Return with an understanding of the trade-off, and Protection against unforeseen events."
+    },
+    {
+      "title": "Explanatory notes",
+      "start_index": 24,
+      "end_index": 28,
+      "node_id": "0017",
+      "summary": "This text is a disclaimer from CFRA, stating that the information provided in their Global Market Outlook is subject to change and has not been approved by regulatory bodies. They disclaim all warranties and assume no liability for the accuracy or usefulness of the information. The content cannot be modified, reproduced, or distributed without permission, and users are not allowed to use it for unlawful or unauthorized purposes. The text also includes a Market Abuse Regulation disclaimer regarding banking activities carried out internationally by Standard Chartered Group."
+    }
+  ]
+}
